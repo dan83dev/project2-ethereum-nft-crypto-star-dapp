@@ -1,7 +1,9 @@
 Truffle Version = 5.2.3
+
 Open Zeppelin Version = 2.3
 
 Token Name = Star Notary
+
 Token Symbol = STAR
 
 Network Used: Goerli
